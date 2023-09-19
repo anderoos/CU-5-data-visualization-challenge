@@ -19,6 +19,14 @@ This set was broken down into the following:
 * Capomulin & Ramicane is the most effective in reducing tumor volume in mouse models over a 45 day period.
 * Capomulin is effective in reducing tumor volume when compared to mouse weight over a 45 day period.
 * In the Capomulin cohort, there is a strong correlation between Mouse weight and final tumor volume, suggesting that tumor size correlates with the weight of the mouse, pvalues shows that it is statistically significant.
+
+![alt text](https://github.com/anderoos/CU-5-data-visualization-challenge/blob/main/Pymaceuticals/Images/total_timepoints.png)
+![alt text](https://github.com/anderoos/CU-5-data-visualization-challenge/blob/main/Pymaceuticals/Images/sex-distribution.png)
+![alt text](https://github.com/anderoos/CU-5-data-visualization-challenge/blob/main/Pymaceuticals/Images/final-tumor-vols.png)
+![alt text](https://github.com/anderoos/CU-5-data-visualization-challenge/blob/main/Pymaceuticals/Images/b128-progression.png)
+![alt text](https://github.com/anderoos/CU-5-data-visualization-challenge/blob/main/Pymaceuticals/Images/Capomulin-cohort-progression.png)
+![alt text](https://github.com/anderoos/CU-5-data-visualization-challenge/blob/main/Pymaceuticals/Images/Capomulin-cohort-avg-endpoints-regression.png)
+
 ## Limitations and recommendations
 - There is no control (untreated) sample. Depending on the mouse line they use, this type of SCC can regress without drug intervention.
 - We can conclude that Capomulin is effective in reducing tumor volume in mice models over a 45 day period but demonstrates some level of drug resistance around the 35-40 day period when we see tumor volume increasing.
